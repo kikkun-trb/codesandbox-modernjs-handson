@@ -1,2 +1,2 @@
-# codesandbox-modernjs-handson
+# codesandbox-test
 Created with CodeSandbox
